@@ -1,5 +1,13 @@
 ## Lorena A. Barba, PhD
 
+Professor of Mechanical and Aerospace Engineering –
+Open Source Program Office (OSPO) Faculty Director –
+George Washington University, Washington DC
+
+[lorenabarba.com](https://lorenabarba.com) 
+
+### Badges
+
 [![NASA Open Science](https://images.credly.com/size/110x110/images/d64b24d8-66f3-435a-bc76-2d70c26b0d67/image.png)](https://www.credly.com/badges/476f9831-92c3-48cb-ac87-d41af0c7e50a/public_url "NASA Open Science")
 
 
