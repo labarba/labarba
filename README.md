@@ -16,6 +16,9 @@ George Washington University, Washington DC
   <a href="https://x.com/LorenaABarba">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://fosstodon.org/@labarba">
+    <img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge"/>
+  </a>
 </div>
 
 ### Badges
