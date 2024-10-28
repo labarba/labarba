@@ -7,16 +7,16 @@ George Washington University, Washington DC
 [lorenabarba.com](https://lorenabarba.com) — [Biography](https://lorenabarba.com/people/biography/)
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/lorenabarba/">
+  <a href="https://www.linkedin.com/in/lorenabarba/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/@lorenabarba">
+  <a href="https://www.youtube.com/@lorenabarba" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://x.com/LorenaABarba">
+  <a href="https://x.com/LorenaABarba" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://fosstodon.org/@labarba">
+  <a href="https://fosstodon.org/@labarba" target="_blank">
     <img src="https://img.shields.io/badge/-FOSSTODON-%235849D6?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge"/>
   </a>
 </div>
