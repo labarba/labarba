@@ -19,6 +19,9 @@ George Washington University, Washington DC
   <a href="https://fosstodon.org/@labarba" target="_blank">
     <img src="https://img.shields.io/badge/-FOSSTODON-%235849D6?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge"/>
   </a>
+  <a href="https://bsky.app/profile/labarba.bsky.social" target="_blank">
+    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white" alt="Bluesky Badge"/>
+  </a>
 </div>
 
 ### Badges
