@@ -4,7 +4,7 @@ Professor of Mechanical and Aerospace Engineering –
 [Open Source Program Office (OSPO)](https://ospo.gwu.edu/) Faculty Director –
 George Washington University, Washington DC
 
-[lorenabarba.com](https://lorenabarba.com) — [Biography](https://lorenabarba.com/people/biography/)
+[lorenabarba.com](https://lorenabarba.com) — [Biography](https://lorenabarba.com/people/biography/) — [Resume](https://labarba.github.io/resume/)
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/lorenabarba/" target="_blank">
